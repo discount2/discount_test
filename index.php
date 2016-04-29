@@ -10,7 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
+        <h1> Hello Git!</h1>
+	<?php
 //            require'includes/mysql.inc.php';
             require'includes/config.inc.php';
             require(MYSQL);

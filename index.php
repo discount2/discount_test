@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <h1> Hello Git!</h1>
 	<h1> Hello Git2!</h1>
+	<h3> Hello GitHub!</h3>
 	<?php
 //            require'includes/mysql.inc.php';
             require'includes/config.inc.php';
